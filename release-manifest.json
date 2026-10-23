@@ -1,9 +1,9 @@
 {
-  "version": "padel-stroke-audio-balance-1",
+  "version": "padel-selected-contact-three-1",
   "date": "2026-10-24",
-  "sha256": "8b6ef64f11691c587ed50762fdd3118564a99b830eeb3f85cb515064cf5f4fe7",
-  "encryptedBytes": 5498457,
-  "plainBytes": 4089639,
+  "sha256": "bbba49486d84dbb1e85b4c2ab7562b55948cee865ffebef24aa2a387f2ef1ff4",
+  "encryptedBytes": 5491625,
+  "plainBytes": 4084515,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
