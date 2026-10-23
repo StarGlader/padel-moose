@@ -1,9 +1,9 @@
 {
   "version": "padel-selected-contact-three-1",
   "date": "2026-10-24",
-  "sha256": "bbba49486d84dbb1e85b4c2ab7562b55948cee865ffebef24aa2a387f2ef1ff4",
-  "encryptedBytes": 5491625,
-  "plainBytes": 4084515,
+  "sha256": "2a8e6a1831c606a4200187ef458aa3b2ac2fdbabc26a75a3dbcb091aa971e7ba",
+  "encryptedBytes": 5491641,
+  "plainBytes": 4084528,
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
