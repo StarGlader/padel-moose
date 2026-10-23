@@ -1,9 +1,11 @@
 {
-  "version": "padel-no-court-underlay-1",
+  "version": "padel-audit-fixes-1",
   "date": "2026-10-24",
-  "sha256": "7e09082573d6b509e7780ab3b4f5fe7926c223f6821b7f862a383a44b2cd994f",
-  "encryptedBytes": 5491557,
-  "plainBytes": 4084465,
+  "sha256": "a0e5277a2359665c80178b81d8d79577c3afbfaacaeaa77a5a2e88e90682b484",
+  "encryptedBytes": 2587734,
+  "plainBytes": 4086523,
+  "compressedBytes": 1902803,
+  "compression": "gzip-before-encryption",
   "wrongPasswordRejected": true,
   "protection": "AES-256-GCM / PBKDF2-SHA256 600000",
   "physicalPhoneTested": false
