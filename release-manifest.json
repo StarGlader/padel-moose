@@ -1,8 +1,8 @@
 {
-  "version": "padel-brand-heading-1",
+  "version": "padel-gate-clean-1",
   "date": "2026-10-25",
-  "sha256": "3ba48566730c739b8efa5b7222ec6361bffa5ce535c7926e8b5ca379f7807346",
-  "encryptedBytes": 2517542,
+  "sha256": "a03a4c17e1da35633faeb008e2069d7f10c222c35b2877490b84225df702d85f",
+  "encryptedBytes": 2517360,
   "plainBytes": 4114533,
   "compressedBytes": 1820025,
   "compression": "gzip-before-encryption",
